@@ -68,7 +68,7 @@ sample_output.mat # Example output results
 The code was developed and tested using the following environment:
 
 ### Software
-- MATLAB R2022b (or later recommended)
+- MATLAB R2024b (or later recommended)
 
 ### Operating System
 - Windows 10/11, macOS, or Linux (platform independent)
@@ -81,7 +81,7 @@ The following MATLAB toolboxes are required:
 - Global Optimization Toolbox (if available)
 
 ### Hardware (Recommended)
-- Processor: Intel i5 / equivalent or higher
+- Processor: Intel i7 / equivalent or higher
 - RAM: Minimum 8 GB (16 GB recommended for Monte Carlo simulations)
 
 ### Dependencies
