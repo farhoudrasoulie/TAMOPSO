@@ -1,6 +1,7 @@
 # TAMOPSO
  3D UAV Flight-Path Planning Using Task-Allocation &amp; Archive-Guided Mutation PSO (TAMOPSO)
 
+<img width="720" height="360" alt="SpxP" src="https://github.com/user-attachments/assets/fbc0ed59-dfe0-47e4-90a9-b5392f5b3454" />
 
 
 
